@@ -3,4 +3,4 @@
 # Favorite Fruit
 - banana
 - apple
-- oranges
+- orange
